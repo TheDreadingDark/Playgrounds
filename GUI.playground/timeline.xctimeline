@@ -3,7 +3,12 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/awoo9855/Documents/Playgrounds/GUI.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=231&amp;EndingColumnNumber=14&amp;EndingLineNumber=8&amp;StartingColumnNumber=1&amp;StartingLineNumber=8&amp;Timestamp=528833406.2317"
+         documentLocation = "file:///Users/awoo9855/Documents/Playgrounds/GUI.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=231&amp;EndingColumnNumber=14&amp;EndingLineNumber=8&amp;StartingColumnNumber=1&amp;StartingLineNumber=8&amp;Timestamp=528839604.216149"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/awoo9855/Documents/Playgrounds/GUI.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=403&amp;EndingColumnNumber=15&amp;EndingLineNumber=11&amp;StartingColumnNumber=1&amp;StartingLineNumber=11&amp;Timestamp=528839604.216255"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
